@@ -122,7 +122,9 @@ Check with kartik@truenil.io on how to get access to tokens
 Restart supervisor with “sudo systemctl restart supervisor”
 Congratulations!! You have successfully setup the supervisor
 
-> :bulb: **Tip:** Useful Links: http://supervisord.org/
+> [!TIP]
+> Useful Links: http://supervisord.org/
+
 To run agent from the docker as part of the local dev env setup
 1. Checkout agent source code from gitHub
       git clone -b dev git@github.com:TrueNil-Prism/agent.git
@@ -288,7 +290,7 @@ Steps to start the server:
 
 If you encounter any issues, please contact tru@truenil.io.
 
-> **Warning:**
+> [!WARNING] 
 > This tool is created purely for learning and educational purposes. The author and development team will not be responsible for any harmful actions.
 
 **Acknowledgments:**
