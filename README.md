@@ -92,13 +92,13 @@ autorestart=true
 Go to agent directory credentials.json file and modify it by adding 
 ```json
 {
-    "aws_access_key_id": "AKIAWGGT3XXXXXXXXXXXXX",
-    "aws_secret_access_key": "zOzDS8QNBWdieqZWGMXXXXXXXXXXXXXXXXX",
+    "aws_access_key_id": "",
+    "aws_secret_access_key": "",
     "bucket_name": "trulnil-agent",
     "organization_id": "2",
     "name": "Truenil",
     "register_url": "https://dev-agent.truenil.io/v1/register_agent/",
-    "token": "82ugJxJQxFQo0WgHqvEWnmOiJDcXXXXXXXXXXXXXXXX",
+    "token": "",
     "metric_url": "https://dev-agent.truenil.io/v1/metrics/",
     "file_url": "https://dev-agent.truenil.io/v1/file/",
     "user_permission_url": "https://dev-agent.truenil.io/v1/user_file_permissions/",
